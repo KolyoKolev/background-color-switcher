@@ -14,3 +14,7 @@ Simple project for generating hex colors and changing the body background by cli
 ## Visual
 
 <img src="./assets/bg-color-switcher.png">
+
+## Live Example
+
+GitHub Page available [here](https://kolyokolev.github.io/background-color-switcher/)
