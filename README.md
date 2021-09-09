@@ -10,3 +10,7 @@ Simple project for generating hex colors and changing the body background by cli
 
 - Open the index.html file in any browser
 - Click on the 'generate a color' button
+
+## Visual
+
+<img src="./assets/bg-color-switcher.png">
